@@ -4,7 +4,7 @@
   "description": "Copyright (c) 2026 Mykhailo Krechkivski. Licensed under GNU GPL v3.0. Повна схема валідації об'єктів містобудівної документації на місцевому рівні згідно Наказу Мінрегіону №56 від 22.02.2022. Розроблено для автоматизації контролю топології та атрибутивної чистоти даних.",
   "x-author": "Mykhailo Krechkivski",
   "x-license": "GNU GPL v3.0",
-  "x-github-repo": "https://github.com/krechkivsky/json_ua",
+  "x-github-repo": "https://github.com/krechkivsky/ua-urban-schema",
   "x-version": "v1.0-RC",
   "type": "object",
   "oneOf": [
