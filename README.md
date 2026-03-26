@@ -50,6 +50,24 @@ This project is designed to automate quality control for Urban Planning Cadastre
 Contributions to the schema development are welcome, especially regarding **CityGML** and **GML 3.0** integration.  
 *Запрошую до співпраці, особливо в частині інтеграції з CityGML та GML 3.0.*
 
+## ⚠️ Відмова від відповідальності / Disclaimer (v1.0-RC)
+UA: Ця схема надається на умовах «як є» (as is). Хоча автор доклав максимум зусиль для забезпечення відповідності структури даних Наказу Мінрегіону №56 від 22.02.2022, цей реліз має статус Release Candidate (RC).
+
+Автор не несе відповідальності за будь-які прямі або непрямі збитки, пов'язані з використанням цієї схеми в промислових (production) системах без попередньої перевірки.
+
+Користувачам рекомендується проводити власне тестування на відповідність технічним завданням конкретних проектів МБД.
+
+Знайдені невідповідності або помилки просимо фіксувати через [GitHub Issues].
+
+EN:
+This schema is provided "as is" without any warranties. While every effort has been made to comply with Order №56, this is a Release Candidate (RC) version.
+
+The author is not liable for any issues arising from the use of this schema in production environments without prior verification.
+
+Users are encouraged to perform their own validation according to specific project requirements.
+
+Please report any bugs or discrepancies via [GitHub Issues].
+
 ## ⚖️ License / Ліцензія
 This project is licensed under the **GNU GPL v3.0**.  
 Author: **Mykhailo Krechkivski** (Senior GIS Architect).
