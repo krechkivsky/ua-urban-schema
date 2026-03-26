@@ -4,7 +4,7 @@ JSON Schema for validation of Ukrainian urban planning data (Order #56)
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![JSON Schema](https://img.shields.io/badge/Schema-JSON%20Schema%202020--12-orange)](https://json-schema.org/)
-[![Status: v1.0-Release-Candidate](https://img.shields.io/badge/Status-v1.0--RC-green)](#)
+[![Status: v1.0-Release-Candidate](https://img.shields.io/badge/Status-v1.0--RC-orange)](#)
 
 ---
 
