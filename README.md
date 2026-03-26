@@ -10,12 +10,12 @@ JSON Schema for validation of Ukrainian urban planning data (Order #56)
 
 ### 🇺🇦 Українською
 
-**Машиночитана специфікація містобудівних даних України.** Реалізація вимог **Наказу Мінрегіону №56 від 22.02.2022** у форматі JSON Schema.
+**Машиночитана специфікація бази геоданих України.** Реалізація вимог **Наказу Мінрегіону №56 від 22.02.2022** у форматі JSON Schema.
 
 #### 🚀 Призначення
-Цей проект створений для автоматизації контролю якості ГІС-даних містобудівного кадастру. Він дозволяє миттєво перевірити GeoJSON файли на відповідність державним стандартам.
+Цей проект створений для автоматизації контролю якості ГІС-даних містобудівного кадастру. Він дозволяє перевірити GeoJSON файли на відповідність державним стандартам.
 
-* **Валідація атрибутів:** Перевірка кодів КАТОТТГ, назв та типів об'єктів.
+* **Валідація атрибутів:** Перевірка назв та типів об'єктів, значень атрибутів.
 * **Геометрична чистота:** Підтримка 2D/3D (Z-координати) для інженерних мереж.
 * **Модульність:** Використання `common.json` для базових геотипів.
 
@@ -31,7 +31,7 @@ JSON Schema for validation of Ukrainian urban planning data (Order #56)
 #### 🚀 Purpose
 This project is designed to automate quality control for Urban Planning Cadastre GIS data. It enables instant validation of GeoJSON files against national standards.
 
-* **Attribute Validation:** Checks for KATOTTG codes, object names, and classifications.
+* **Attribute Validation:** Checks for object names, classifications and attributes.
 * **Geometric Integrity:** Full support for 2D/3D (Z-coordinates) for utility networks.
 * **Modularity:** Uses `common.json` for reusable spatial data types.
 
